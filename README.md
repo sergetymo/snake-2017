@@ -12,6 +12,7 @@ A classic snake game written as a test assignment to join Neotech Development fr
 
 ## Usage
 * `npm run build` or `yarn run build`
+
 This puts standalone, transpiled and ready-to-use version into `dist/` folder.
 
 ## Tech used
@@ -20,3 +21,5 @@ This puts standalone, transpiled and ready-to-use version into `dist/` folder.
 * Native DOM API to manipulate nodes.
 * Pluggable renderer interface to implement, for example, console-based output.
 
+## Easter egg
+You also can use `vim` movement keys (`hjkl`) to control snake.
