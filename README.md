@@ -1,3 +1,4 @@
+![Game of Snake screenshot](screenshot.png)
 # Game of Snake
 A classic snake game written as a test assignment to join Neotech Development frontend team.
 
