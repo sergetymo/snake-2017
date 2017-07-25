@@ -2,6 +2,8 @@
 # Game of Snake
 A classic snake game written as a test assignment to join Neotech Development frontend team.
 
+## [Play](http://snake.atelier.co.ua)
+
 ## Prerequisites
 * Installed `node.js`
 * Either `npm` or `yarn` package manager
