@@ -1,6 +1,6 @@
 {
   "name": "snake",
-  "version": "1.0.5",
+  "version": "1.1.0",
   "description": "A snake game written in ES6",
   "main": "main.js",
   "scripts": {
@@ -8,14 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://freezethrower@gitlab.com/atelier/snake.git"
+    "url": "git+https://github.com/sergetymo/snake-2017.git"
   },
-  "author": "Serge Tymoshenko <serge@atelier.co.ua>",
+  "author": "Serge Tymoshenko <serge@tymo.name>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://gitlab.com/atelier/snake/issues"
-  },
-  "homepage": "https://gitlab.com/atelier/snake#README",
+  "homepage": "https://github.com/sergetymo/snake-2017",
   "devDependencies": {
     "babel-core": "^6.25.0",
     "babel-loader": "^7.1.1",

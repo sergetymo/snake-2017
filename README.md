@@ -2,18 +2,18 @@
 # Game of Snake
 A classic snake game written as a test assignment to join Neotech Development frontend team.
 
-## [Play](http://snake.atelier.co.ua)
+## [Play](https://tymo.name/projects/snake-2017)
 
 ## Prerequisites
 * Installed `node.js`
 * Either `npm` or `yarn` package manager
 
 ## Install
-* `git clone git@gitlab.com:atelier/snake.git && cd snake`
+* `git clone git@github.com:sergetymo/snake-2017.git && cd snake-2017`
 * `npm install` or `yarn`
 
 ## Usage
-* `npm run build` or `yarn run build`
+* `npm run build` or `yarn build`
 
 This puts standalone, transpiled and ready-to-use version into `dist/` folder.
 
